@@ -12,9 +12,9 @@
 ## Installation
 > *Tested working on Xcode 10*
 
-1. Copy the two .xccolortheme files into `~/Library/Developer/Xcode/UserData/FontAndColorThemes`. You may have to create the directory if there isn't an existed one.
-2. Open `Preferences`. In the `Fonts & Colors` tab, select `Solarized Light` or `Dark` theme. _(Note: From macOS Mojave (10.14) forward, your chosen theme is bound to the systemwide light/dark modes. For example, if you change the system to light mode and select Solarized Light in Xcode, then change to dark mode and choose Solarized Dark, Xcode will remember your theme selections any time you change the system between light/dark modes.)_
-3. Restart Xcode if the themes don't appear.
+1. Download and install the [Fira Code][4] typeface.
+2. Copy the two .xccolortheme files into `~/Library/Developer/Xcode/UserData/FontAndColorThemes`. You may have to create the directory if there isn't an existed one.
+3. Open `Preferences`. In the `Fonts & Colors` tab, select `Solarized Light` or `Dark` theme. If they don't appear, restart Xcode and check again. _(Note: From macOS Mojave (10.14) forward, your chosen theme is bound to the systemwide light/dark modes. For example, if you change the system to light mode and select Solarized Light in Xcode, then change to dark mode and choose Solarized Dark, Xcode will remember your theme selections any time you change the system between light/dark modes.)_
 
 ## Attributions
 Solarized, Fira Code, the themes upon which those in this project are based, and the code in the screenshots are not my work! I imported two separate themes, tweaked them for Xcode 10, added in Fira Code, and forked another project. Credit is due there!
