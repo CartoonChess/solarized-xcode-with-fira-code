@@ -3,12 +3,21 @@
 ![Solarized Light][1]
 ![Solarized Dark][2]
 
+## Solarized?
+[Solarized][3] is a theme which uses the same text colors for both light and dark backgrounds for consistency. You can see the overall effect in the screenshots above.
+
+## Fira Code?
+[Fira Code][4] is a typeface which produces helpful ligatures (e.g. `!=` becomes `≠`, `->` becomes `⟶`, `>=` becomes `⩾`, etc.) when reading your code. The effect isn't particularly noticable in the screenshots above; see the [Fira Code GitHub page][4] for better examples.
+
 ## Installation
 > *Tested working on Xcode 10*
 
 1. Copy the two .xccolortheme files into `~/Library/Developer/Xcode/UserData/FontAndColorThemes`. You may have to create the directory if there isn't an existed one.
 2. Open `Preferences`. In the `Fonts & Colors` tab, select `Solarized Light` or `Dark` theme. _(Note: From macOS Mojave (10.14) forward, your chosen theme is bound to the systemwide light/dark modes. For example, if you change the system to light mode and select Solarized Light in Xcode, then change to dark mode and choose Solarized Dark, Xcode will remember your theme selections any time you change the system between light/dark modes.)_
 3. Restart Xcode if the themes don't appear.
+
+## Attributions
+Solarized, Fira Code, the themes upon which those in this project are based, and the code in the screenshots are not my work! I imported two separate themes, tweaked them for Xcode 10, added in Fira Code, and forked another project. Credit is due there!
 
 ## See also
 - [Solarized Theme official homepage][3]
