@@ -18,8 +18,8 @@
 - [Solarized Dark for Xcode][7] (based on this theme)
 - [Swift: 30 Projects][8] (code in screenshots)
 
-[1]: http://i.imgur.com/dv5H0yA.png
-[2]: http://i.imgur.com/BUJcHU9.png
+[1]: https://github.com/CartoonChess/solarized-xcode-with-fira-code/blob/master/Screenshot_Light.png
+[2]: https://github.com/CartoonChess/solarized-xcode-with-fira-code/blob/master/Screenshot_Dark.png
 [3]: http://ethanschoonover.com/solarized
 [4]: https://github.com/tonsky/FiraCode
 [5]: https://github.com/stackia/solarized-xcode
