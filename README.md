@@ -16,6 +16,7 @@
 - [Solarized Light & Dark Theme For Xcode][5] (forked from here)
 - [Solarized Light for Xcode][6] (based on this theme)
 - [Solarized Dark for Xcode][7] (based on this theme)
+- [Swift: 30 Projects][8] (code in screenshots)
 
 [1]: http://i.imgur.com/dv5H0yA.png
 [2]: http://i.imgur.com/BUJcHU9.png
@@ -24,3 +25,4 @@
 [5]: https://github.com/stackia/solarized-xcode
 [6]: https://github.com/nelsyeung/Solarized-Light-for-Xcode
 [7]: https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode
+[8]: https://github.com/soapyigu/Swift-30-Projects
